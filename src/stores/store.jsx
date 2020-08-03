@@ -217,7 +217,7 @@ class Store {
           id: 'balancer yCRV-gYFI',
           name: 'Balancer Pool yCRV-gYFI',
           website: 'pools.balancer.exchange',
-          link: 'https://bal.yfii.finance/#/pool/0xDFb0CE371d4858d2ea247c1d2e07b40daF4e9298',
+          link: 'https://pools.balancer.exchange/#/pool/0xDFb0CE371d4858d2ea247c1d2e07b40daF4e9298',
           YieldCalculatorLink: "https://yieldfarming.gyfi.finance/gyfi/pool2/",   //收益率器地址
           depositsEnabled: true,
           tokens: [
@@ -241,7 +241,7 @@ class Store {
           id: 'balancer DAI-gYFI',
           name: 'Balancer Pool DAI-gYFI',
           website: 'pools.balancer.exchange',
-          link: 'https://bal.yfii.finance/#/pool/0xB6F8187f0AB2bEfc264FaF37367583AD41cDE07e',
+          link: 'https://pools.balancer.exchange/#/pool/0xB6F8187f0AB2bEfc264FaF37367583AD41cDE07e',
           YieldCalculatorLink: "https://yieldfarming.gyfi.finance/gyfi/pool1/", //收益率器地址
           depositsEnabled: true,
           tokens: [
