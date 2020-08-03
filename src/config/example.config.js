@@ -1,7 +1,7 @@
 const config = {
   infuraProvider: 'https://mainnet.infura.io/v3/e1ff6c5c6e6a47b8b7d309c044823441',
 
-  balancerRewardsAddress: '0x81dfa0b3CF2601012075EF2619AfB9d4Ed4Da762',
+  balancerRewardsAddress: '0x73862D8158D9A14768ac45f623bB2a7C11922504',
   balancerRewardsABI: [{
     "anonymous": false,
     "inputs": [{
@@ -366,7 +366,7 @@ const config = {
     "type": "function"
   }],
   
-  balancerRewardsAddress2: '0x7c8c77933e2Fd6AdC2eBfaB5dC529c6787c57C34',
+  balancerRewardsAddress2: '0xE247e535a8175dfb252fD691c5b2eDA354620f70',
   balancerRewardsABI2: [{
     "anonymous": false,
     "inputs": [{
@@ -731,7 +731,7 @@ const config = {
     "type": "function"
   }],
 
-  yfiAddress: '0xCee1d3c3A02267e37E6B373060F79d5d7b9e1669',
+  yfiAddress: '0x91F79D4a59ce6e410Fefb059a6D5679Aa55403dB',
   yfiABI: [{
     "inputs": [],
     "payable": false,

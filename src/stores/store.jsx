@@ -217,13 +217,13 @@ class Store {
           id: 'balancer yCRV-gYFI',
           name: 'Balancer Pool yCRV-gYFI',
           website: 'pools.balancer.exchange',
-          link: 'https://bal.yfii.finance/#/pool/0xc855F1572c8128ADd6F0503084Ba23930B7461f8',
+          link: 'https://bal.yfii.finance/#/pool/0xDFb0CE371d4858d2ea247c1d2e07b40daF4e9298',
           YieldCalculatorLink: "https://yieldfarming.gyfi.finance/gyfi/pool2/",   //收益率器地址
           depositsEnabled: true,
           tokens: [
             {
               id: 'bpt2',
-              address: '0xc855F1572c8128ADd6F0503084Ba23930B7461f8',
+              address: '0xDFb0CE371d4858d2ea247c1d2e07b40daF4e9298',
               symbol: 'BPT',
               abi: config.erc20ABI,
               decimals: 18,
@@ -241,13 +241,13 @@ class Store {
           id: 'balancer DAI-gYFI',
           name: 'Balancer Pool DAI-gYFI',
           website: 'pools.balancer.exchange',
-          link: 'https://bal.yfii.finance/#/pool/0xFe793bC3D1Ef8d38934896980254e81d0c5F6239',
+          link: 'https://bal.yfii.finance/#/pool/0xB6F8187f0AB2bEfc264FaF37367583AD41cDE07e',
           YieldCalculatorLink: "https://yieldfarming.gyfi.finance/gyfi/pool1/", //收益率器地址
           depositsEnabled: true,
           tokens: [
             {
               id: 'bpt',
-              address: '0xFe793bC3D1Ef8d38934896980254e81d0c5F6239',
+              address: '0xB6F8187f0AB2bEfc264FaF37367583AD41cDE07e',
               symbol: 'BPT',
               abi: config.erc20ABI,
               decimals: 18,

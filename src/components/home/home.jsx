@@ -191,7 +191,7 @@ class Home extends Component {
           <DetailsIcon className={ `${classes.icon} icon` } />
           <Typography variant={'h3'} className={ `${classes.title} title` }>Stake</Typography>
         </Card>
-        {<Card className={ `${classes.card} ${classes.zap}` } onClick={ () => { window.open('https://info.gyfi.finance/gYFI%20Whitepaper.pdf', '_blank') } }>
+        {<Card className={ `${classes.card} ${classes.zap}` } onClick={ () => { window.open('https://info.gyfi.finance/WP.pdf', '_blank') } }>
           <WbIncandescentIcon className={ `${classes.icon} icon` } />
           <Typography variant={'h3'} className={ `${classes.title} title` }>Whitepaper</Typography>
         </Card>}
