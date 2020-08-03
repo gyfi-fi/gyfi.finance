@@ -151,9 +151,9 @@ class Footer extends Component {
             {this.renderRewards()}
           </Typography>
           <div className={classes.buttons}>
-            <Link href="https://twitter.com/FinanceYfii" target="_blank">Twitter</Link>
-            <Link href="https://t.me/yfiifinance" target="_blank">Telegram</Link>
-            <Link href="https://discord.gg/XQ4wnmz" target="_blank">Discord</Link>
+            <Link href="https://t.me/gyfi_fi" target="_blank">Twitter</Link>
+            <Link href="https://t.me/gYFI_finance" target="_blank">Telegram</Link>
+            <Link href="https://discord.gg/h8VHpx" target="_blank">Discord</Link>
           </div>
       </Toolbar>
       </AppBar>
