@@ -356,7 +356,7 @@ class Stake extends Component {
     return (
       <div className={ classes.root }>
         <Typography variant="h2" className={ classes.title }>
-          <Link href={"https://yfii.s3-ap-northeast-1.amazonaws.com/YFII_Innovative_DeFi_Yield_Farming_Token.pdf"} target="_blank">{t('Stake.Title')}</Link>
+          <Link href={"https://info.gyfi.finance/WP.pdf"} target="_blank">{t('Stake.Title')}</Link>
         </Typography>
         {(i18n.language=== 'zh' || i18n.language === 'zh-CN') &&<Typography variant="h3" className={ classes.subtitle }><Link href="https://docs.qq.com/doc/DUnJVU0NXYUhPZVlC?pub=1&dver=2.1.0" target="_blank">{t('Stake.Subtitle')}</Link></Typography>}
         <div className={ classes.intro }>
