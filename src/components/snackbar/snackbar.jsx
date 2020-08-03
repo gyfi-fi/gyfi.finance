@@ -124,8 +124,8 @@ class MySnackbar extends Component {
         messageType = t("Snackbar.Success")
         break;
       case 'Warning':
-        icon = <WarningIcon color={colors.orange} />
-        color = colors.orange
+        icon = <WarningIcon color={colors.gyfi} />
+        color = colors.gyfi
         messageType = t("Snackbar.Warning")
         break;
       case 'Info':
